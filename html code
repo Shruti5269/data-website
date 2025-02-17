@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychological Well-Being Study</title>
+    <style>
+        body {
+             background-image: url('pro_back.avif'); /* Replace with your image URL */
+    background-size: cover;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #d4a017;
+        }
+         .purple-text {
+            color: #1f3a93;
+        }
+         p {
+            text-align: justify;
+        }
+        .btn-container {
+            margin-top: 20px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 10px auto;
+            padding: 15px;
+            background-color: #8b8589;
+            color: #f1c40f;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Classifying Happiness and Depression Using ML</h1>
+        <h4 style="color:#1f3a93;">Our project focuses on developing a machine learning model to classify individuals as psychologically happy or experiencing depression. The purpose of collecting this data is to build a comprehensive dataset that captures various emotional and mental health indicators through structured questionnaire responses. This data will be utilized to train machine learning models, enabling them to accurately predict an individual's psychological state based on different features. By applying various machine learning approaches, we aim to develop an efficient and reliable system that can recognize patterns and correlations between psychological well-being and its influencing factors. 
+        </h4>
+        <h2 style="color: black;">Research Problem</h2>
+        <h5><p class="purple-text"> Mental health is a crucial aspect of well-being, particularly for individuals aged 18 to 60. Early identification of psychological states, such as happiness and depression, can significantly enhance overall well-being. By leveraging machine learning, we can analyze behavioral patterns and survey data to effectively classify individuals' mental health conditions, enabling a data-driven approach to understanding psychological well-being.
+        </p></h5>
+        <h2 style="color: black;">Objectives</h2>
+        <h5><p class="purple-text">
+        1. Build a machine learning model to categorize individuals as happy or experiencing depression.
+        <br>2.Identify key psychological factors that influence happiness and depression.
+        <br>3.Generate data-driven insights to support mental health understanding and improvement.
+        </p></h5>
+        <h2 style="color: black;">Data Collection</h2>
+        <h5><p class="purple-text">We collect data using standardized psychological scales, including DASS-21(Depression, Anxiety and Stress Scale), SWLS(Satisfaction with Life Scale), and the Big Five Personality Traits, along with behavioral indicators such as sleep patterns, social interactions, and digital activity. To participate, simply click on the questionnaire link, go through the questions carefully, and provide your responses. Your input is valuable in helping us build a comprehensive dataset for our research. All responses will be kept confidential and used solely for academic purposes.</p></h5>
+        
+        <div class="btn-container">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN9ymJ8RIGNExQ7gDr4QyZKhFuZpiV8jRots1lsgZEW9yEzQ/viewform?usp=sharing" class="btn">LINK TO DATA FORM</a>
+                   </div>
+<p class="purple-text">This webpage has been created by <strong> Shruti Gupta (21MCA23) </strong>and <strong> Yugam Padha (10MCA23) </strong>, students of the Department of Computer Science and IT, University of Jammu. Currently pursuing their Master in Computer Applications (MCA), they have developed this platform as part of their project work to collect essential data for their research. This project is being carried out under the guidance of<strong> Prof. Vinod Sharma</strong>, whose expertise and support have been instrumental in shaping the study.</p>
+       <h2 style="color: black;">Contact Detail</h2>
+      <p class="purple-text">If any one have any query they can contact us on our <br>Email - projectmca47@gmail.com<br>
+Mobile no. - 9796685007(Shruti Gupta) & 7889980805(Yugam Padha) </p>
+    </div>
+</body>
+</html>
